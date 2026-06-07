@@ -27,12 +27,13 @@
 
 1. 克隆仓库：
 ```bash
-git clone https://github.com/YOUR_USERNAME/tank-battle.git
+git clone https://github.com/chaojibeijita970723/tank-battle.git
 ```
 
 2. 直接用浏览器打开 `index.html` 即可开始游戏！
 
-或者直接访问 GitHub Pages：`https://YOUR_USERNAME.github.io/tank-battle/`
+或者直接访问 GitHub Pages：`https://chaojibeijita970723.github.io/tank-battle/`
+
 
 ## 🛠 技术栈
 
